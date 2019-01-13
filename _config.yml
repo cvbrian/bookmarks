@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+github:
+  repo: bookmarks/cvbrian.github.io
+  branch: master
